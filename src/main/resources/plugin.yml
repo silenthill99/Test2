@@ -1,0 +1,4 @@
+name: Test
+version: '${version}'
+main: fr.silenthill99.test.Test
+api-version: 1.19
